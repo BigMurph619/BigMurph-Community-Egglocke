@@ -35,7 +35,6 @@ Want a chance to have your custom pokemon appear in the event? Follow the instru
 >Note; if you are having any issues please feel free to contact the moderators in discord!
 
 # PkHex Info
-To allow the ability to be changed to a none deafult abillity follow instructions below
 
 In Pkhex settings go to **Startup** and then change **ForceHaxOnlanuch** to **True**
 
