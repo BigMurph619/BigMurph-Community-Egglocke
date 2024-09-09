@@ -37,6 +37,6 @@ Want a chance to have your custom pokemon appear in the event? Follow the instru
 # PkHex Info
 To allow the ability to be changed to a none deafult abillity follow instructions below
 
-In Pkhex settings go to Startup and then change ForceHaxOnlanuch to True
+In Pkhex settings go to **Startup** and then change **ForceHaxOnlanuch** to **True**
 
 Make sure to close the settings then restart for this to be enforced
