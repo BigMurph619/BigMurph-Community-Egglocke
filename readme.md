@@ -25,7 +25,7 @@ Want a chance to have your custom pokemon appear in the event? Follow the instru
 7) You can now change the Species to the pokemon of your choice and nickname it however you like.
 8) Look through the various choices and make the Egg you want.
 9) Ensure you include YOUR TWITCH USERNAME as the "OT" (Original Trainer) in the "OT/Misc" tab so I know who made the egg!
-10) When you are done, the image in the top left, drag and drop it into a file or your desktop this should make a pk3 file.
+10) When you are done, the image in the top left, drag and drop it into a file or your desktop this should make a pk4 file.
 11) Go into the Big Murphs Discord and in egglocke submission post your pk3 file.
 
 **Done you can post two pk3 files for the event**
