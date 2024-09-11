@@ -20,7 +20,7 @@ Want a chance to have your custom pokemon appear in the event? Follow the instru
 
 > As of the 8th of september 2024 there are no real security issues with this file, [Virustotal result](https://www.virustotal.com/gui/file/1bd37bea42266823a6a9e6ef348bc20fb360a7ee5733d534738a1331b9733acf)
 
-5) Once you have opened PkHex go to options, settings then at the top **change blank save settings to "GO VOTE IN DISCORD"** then close out of settings.
+5) Once you have opened PkHex go to options, settings then at the top **change blank save settings to Platinum** then close out of settings.
 6) **VERY IMPORTANT** Before you start looking through the options you can change, MAKE SURE TO TICK **Is Egg**
 7) You can now change the Species to the pokemon of your choice and nickname it however you like.
 8) Look through the various choices and make the Egg you want.
