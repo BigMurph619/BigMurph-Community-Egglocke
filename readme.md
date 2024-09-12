@@ -28,7 +28,7 @@ Want a chance to have your custom pokemon appear in the event? Follow the instru
 10) When you are done, the image in the top left, drag and drop it into a file or your desktop this should make a pk4 file.
 11) Go into the Big Murphs Discord and in egglocke submission post your pk4 file.
 
-**Done you can post two pk3 files for the event**
+**Done you can post two pk4 files for the event**
 
 >Not in the discord? Ask in the twitch chat or use command !discord
 
