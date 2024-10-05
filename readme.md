@@ -1,13 +1,13 @@
 
-# BigMurph's Community Egglocke
+# BigMurph619's Community Egglocke
 
-Created by [BigMurph](https://www.twitch.tv/bigmurph619)
+Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
 ---
 
-BigMurph's Community Egglocke will close submissions on 15th of september this is a subscriber only event!
+BigMurph's Community Egglocke will close submissions on 7th of October. This is a subscriber only event!
 
-Want a chance to have your custom pokemon appear in the event? Follow the instructions below! Goodluck all!
+Want a chance to have your custom pokemon appear in the event? Follow the instructions below!
 
 ---
 
